@@ -1,0 +1,642 @@
+git add "1-GettingStarted\videos\1- What is React.mp4.zip"                
+git commit -m "added video 1- What is React.mp4"                
+git push origin master
+git add "1-GettingStarted\videos\2- Setting Up the Development Environment.mp4.zip"                
+git commit -m "added video 2- Setting Up the Development Environment.mp4"                
+git push origin master
+git add "1-GettingStarted\videos\3- Your First React App.mp4.zip"                
+git commit -m "added video 3- Your First React App.mp4"                
+git push origin master
+git add "1-GettingStarted\videos\4- Hello World.mp4.zip"                
+git commit -m "added video 4- Hello World.mp4"                
+git push origin master
+git add "1-GettingStarted\videos\5- Custom Configs.mp4.zip"                
+git commit -m "added video 5- Custom Configs.mp4"                
+git push origin master
+git add "1-GettingStarted\videos\6- Full-stack Architecture.mp4.zip"                
+git commit -m "added video 6- Full-stack Architecture.mp4"                
+git push origin master
+git add "1-GettingStarted\videos\7- Course Structure.mp4.zip"                
+git commit -m "added video 7- Course Structure.mp4"                
+git push origin master
+git add "10-Deploy\videos\1- Introduction.mp4.zip"                
+git commit -m "added video 1- Introduction.mp4"                
+git push origin master
+git add "10-Deploy\videos\10- Preparing the Font-end for Deployment.mp4.zip"                
+git commit -m "added video 10- Preparing the Font-end for Deployment.mp4"                
+git push origin master
+git add "10-Deploy\videos\11- Deploying the Front-end.mp4.zip"                
+git commit -m "added video 11- Deploying the Front-end.mp4"                
+git push origin master
+git add "10-Deploy\videos\2- Environment Variables.mp4.zip"                
+git commit -m "added video 2- Environment Variables.mp4"                
+git push origin master
+git add "10-Deploy\videos\3- Production Builds.mp4.zip"                
+git commit -m "added video 3- Production Builds.mp4"                
+git push origin master
+git add "10-Deploy\videos\4- Getting Started with Heroku.mp4.zip"                
+git commit -m "added video 4- Getting Started with Heroku.mp4"                
+git push origin master
+git add "10-Deploy\videos\5- MongoDB in the Cloud.mp4.zip"                
+git commit -m "added video 5- MongoDB in the Cloud.mp4"                
+git push origin master
+git add "10-Deploy\videos\6- Adding Code to a Git Repository.mp4.zip"                
+git commit -m "added video 6- Adding Code to a Git Repository.mp4"                
+git push origin master
+git add "10-Deploy\videos\7- Deploying to Heroku.mp4.zip"                
+git commit -m "added video 7- Deploying to Heroku.mp4"                
+git push origin master
+git add "10-Deploy\videos\8- Viewing Logs.mp4.zip"                
+git commit -m "added video 8- Viewing Logs.mp4"                
+git push origin master
+git add "10-Deploy\videos\9- Setting Environment Variables on Heroku.mp4.zip"                
+git commit -m "added video 9- Setting Environment Variables on Heroku.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\1- Introduction.mp4.zip"                
+git commit -m "added video 1- Introduction.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\10- Fetching Data with Hooks.mp4.zip"                
+git commit -m "added video 10- Fetching Data with Hooks.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\11- Context.mp4.zip"                
+git commit -m "added video 11- Context.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\12- Context in Class Components.mp4.zip"                
+git commit -m "added video 12- Context in Class Components.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\13- Context in Functional Components.mp4.zip"                
+git commit -m "added video 13- Context in Functional Components.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\14- Updating the Context.mp4.zip"                
+git commit -m "added video 14- Updating the Context.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\15- Consuming Multiple Contexts.mp4.zip"                
+git commit -m "added video 15- Consuming Multiple Contexts.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\3- Setting Up the Development Environment.mp4.zip"                
+git commit -m "added video 3- Setting Up the Development Environment.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\4- Higher Order Components.mp4.zip"                
+git commit -m "added video 4- Higher Order Components.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\5- Implementing a Higher Order Component.mp4.zip"                
+git commit -m "added video 5- Implementing a Higher Order Component.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\6- Hooks.mp4.zip"                
+git commit -m "added video 6- Hooks.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\7- The useState Hook.mp4.zip"                
+git commit -m "added video 7- The useState Hook.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\8- The useEffect Hook.mp4.zip"                
+git commit -m "added video 8- The useEffect Hook.mp4"                
+git push origin master
+git add "11-AdvTopics\videos\9- Custom Hooks.mp4.zip"                
+git commit -m "added video 9- Custom Hooks.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\1 - Introduction.mp4.zip"                
+git commit -m "added video 1 - Introduction.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\10- Spread Operator.mp4.zip"                
+git commit -m "added video 10- Spread Operator.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\11- Classes.mp4.zip"                
+git commit -m "added video 11- Classes.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\12- Inheritance.mp4.zip"                
+git commit -m "added video 12- Inheritance.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\13- Modules.mp4.zip"                
+git commit -m "added video 13- Modules.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\14- Named and Default Exports.mp4.zip"                
+git commit -m "added video 14- Named and Default Exports.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\2- Let vs Var vs Const.mp4.zip"                
+git commit -m "added video 2- Let vs Var vs Const.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\3- Objects.mp4.zip"                
+git commit -m "added video 3- Objects.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\4- The this Keyword.mp4.zip"                
+git commit -m "added video 4- The this Keyword.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\5- Binding this.mp4.zip"                
+git commit -m "added video 5- Binding this.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\6- Arrow Functions.mp4.zip"                
+git commit -m "added video 6- Arrow Functions.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\7- Arrow Functions and this.mp4.zip"                
+git commit -m "added video 7- Arrow Functions and this.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\8- Array.map Method.mp4.zip"                
+git commit -m "added video 8- Array.map Method.mp4"                
+git push origin master
+git add "2-ES6Refresher\videos\9- Object Destructuring.mp4.zip"                
+git commit -m "added video 9- Object Destructuring.mp4"                
+git push origin master
+git add "3-Components\videos\1- Introduction.mp4.zip"                
+git commit -m "added video 1- Introduction.mp4"                
+git push origin master
+git add "3-Components\videos\10- Handling Events.mp4.zip"                
+git commit -m "added video 10- Handling Events.mp4"                
+git push origin master
+git add "3-Components\videos\11- Binding Event Handlers.mp4.zip"                
+git commit -m "added video 11- Binding Event Handlers.mp4"                
+git push origin master
+git add "3-Components\videos\12- Updating the State.mp4.zip"                
+git commit -m "added video 12- Updating the State.mp4"                
+git push origin master
+git add "3-Components\videos\13- What Happens When State Changes.mp4.zip"                
+git commit -m "added video 13- What Happens When State Changes.mp4"                
+git push origin master
+git add "3-Components\videos\14- Passing Event Arguments.mp4.zip"                
+git commit -m "added video 14- Passing Event Arguments.mp4"                
+git push origin master
+git add "3-Components\videos\15- Setting Up the Vidly Project.mp4.zip"                
+git commit -m "added video 15- Setting Up the Vidly Project.mp4"                
+git push origin master
+git add "3-Components\videos\16- Exercises.mp4.zip"                
+git commit -m "added video 16- Exercises.mp4"                
+git push origin master
+git add "3-Components\videos\17- Building the Movies Component.mp4.zip"                
+git commit -m "added video 17- Building the Movies Component.mp4"                
+git push origin master
+git add "3-Components\videos\18- Deleting a Movie.mp4.zip"                
+git commit -m "added video 18- Deleting a Movie.mp4"                
+git push origin master
+git add "3-Components\videos\19- Conditional Rendering.mp4.zip"                
+git commit -m "added video 19- Conditional Rendering.mp4"                
+git push origin master
+git add "3-Components\videos\2- Setting Up the Project.mp4.zip"                
+git commit -m "added video 2- Setting Up the Project.mp4"                
+git push origin master
+git add "3-Components\videos\20 - Summary.mp4.zip"                
+git commit -m "added video 20 - Summary.mp4"                
+git push origin master
+git add "3-Components\videos\3- Your First React Component.mp4.zip"                
+git commit -m "added video 3- Your First React Component.mp4"                
+git push origin master
+git add "3-Components\videos\4- Specifying Children.mp4.zip"                
+git commit -m "added video 4- Specifying Children.mp4"                
+git push origin master
+git add "3-Components\videos\5- Embedding Expressions.mp4.zip"                
+git commit -m "added video 5- Embedding Expressions.mp4"                
+git push origin master
+git add "3-Components\videos\6- Setting Attributes.mp4.zip"                
+git commit -m "added video 6- Setting Attributes.mp4"                
+git push origin master
+git add "3-Components\videos\7- Rendering Classes Dynamically.mp4.zip"                
+git commit -m "added video 7- Rendering Classes Dynamically.mp4"                
+git push origin master
+git add "3-Components\videos\8 - Rendering Lists.mp4.zip"                
+git commit -m "added video 8 - Rendering Lists.mp4"                
+git push origin master
+git add "3-Components\videos\9- Conditional Rendering.mp4.zip"                
+git commit -m "added video 9- Conditional Rendering.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\1- Introduction.mp4.zip"                
+git commit -m "added video 1- Introduction.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\10- Removing the Local State.mp4.zip"                
+git commit -m "added video 10- Removing the Local State.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\11- Multiple Components in Sync.mp4.zip"                
+git commit -m "added video 11- Multiple Components in Sync.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\12- Lifting the State Up.mp4.zip"                
+git commit -m "added video 12- Lifting the State Up.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\13 - Stateless Functional Components.mp4.zip"                
+git commit -m "added video 13 - Stateless Functional Components.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\14- Destructuring Arguments.mp4.zip"                
+git commit -m "added video 14- Destructuring Arguments.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\15 - Lifecycle Hooks.mp4.zip"                
+git commit -m "added video 15 - Lifecycle Hooks.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\16 - Mounting Phase.mp4.zip"                
+git commit -m "added video 16 - Mounting Phase.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\17- Updating Phase.mp4.zip"                
+git commit -m "added video 17- Updating Phase.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\18- Unmounting Phase.mp4.zip"                
+git commit -m "added video 18- Unmounting Phase.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\19- Exercise- Decrement Button.mp4.zip"                
+git commit -m "added video 19- Exercise- Decrement Button.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\2- Composing Components.mp4.zip"                
+git commit -m "added video 2- Composing Components.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\20- Solution - Decrement Button.mp4.zip"                
+git commit -m "added video 20- Solution - Decrement Button.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\21- Exercise- Like Component.mp4.zip"                
+git commit -m "added video 21- Exercise- Like Component.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\22- Solution- Like Component.mp4.zip"                
+git commit -m "added video 22- Solution- Like Component.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\23- Summary.mp4.zip"                
+git commit -m "added video 23- Summary.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\3- Passing Data to Components.mp4.zip"                
+git commit -m "added video 3- Passing Data to Components.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\4- Passing Children.mp4.zip"                
+git commit -m "added video 4- Passing Children.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\5 - Debugging React Apps.mp4.zip"                
+git commit -m "added video 5 - Debugging React Apps.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\6- Props vs State.mp4.zip"                
+git commit -m "added video 6- Props vs State.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\7 - Raising and Handling Events.mp4.zip"                
+git commit -m "added video 7 - Raising and Handling Events.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\8- Updating the State.mp4.zip"                
+git commit -m "added video 8- Updating the State.mp4"                
+git push origin master
+git add "4-ComposingComponents\videos\9- Single Source of Truth.mp4.zip"                
+git commit -m "added video 9- Single Source of Truth.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\1- Introduction.mp4.zip"                
+git commit -m "added video 1- Introduction.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\10- Filtering- Displaying Items.mp4.zip"                
+git commit -m "added video 10- Filtering- Displaying Items.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\11- Filtering- Default Props.mp4.zip"                
+git commit -m "added video 11- Filtering- Default Props.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\12- Filtering- Handling Selection.mp4.zip"                
+git commit -m "added video 12- Filtering- Handling Selection.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\13- Filtering- Implementing Filtering.mp4.zip"                
+git commit -m "added video 13- Filtering- Implementing Filtering.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\14- Filtering- Adding All Genres.mp4.zip"                
+git commit -m "added video 14- Filtering- Adding All Genres.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\15- Sorting- Extracting MoviesTable.mp4.zip"                
+git commit -m "added video 15- Sorting- Extracting MoviesTable.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\16- Sorting- Raising the Sort Event.mp4.zip"                
+git commit -m "added video 16- Sorting- Raising the Sort Event.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\17- Sorting- Implementing Sorting.mp4.zip"                
+git commit -m "added video 17- Sorting- Implementing Sorting.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\18- Sorting- Moving Responsibility.mp4.zip"                
+git commit -m "added video 18- Sorting- Moving Responsibility.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\19- Sorting- Extracting TableHeader.mp4.zip"                
+git commit -m "added video 19- Sorting- Extracting TableHeader.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\2- Exercise- Pagination Component.mp4.zip"                
+git commit -m "added video 2- Exercise- Pagination Component.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\20- Sorting- Extracting TableBody.mp4.zip"                
+git commit -m "added video 20- Sorting- Extracting TableBody.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\21- Sorting- Rendering Cell Content.mp4.zip"                
+git commit -m "added video 21- Sorting- Rendering Cell Content.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\22- Sorting- Unique Keys - Final.mp4.zip"                
+git commit -m "added video 22- Sorting- Unique Keys - Final.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\23- Sorting- Adding the Sort Icon.mp4.zip"                
+git commit -m "added video 23- Sorting- Adding the Sort Icon.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\24- Sorting- Extracting Table.mp4.zip"                
+git commit -m "added video 24- Sorting- Extracting Table.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\25- Sorting- Extracting a Method.mp4.zip"                
+git commit -m "added video 25- Sorting- Extracting a Method.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\26- Destructuring Arguments.mp4.zip"                
+git commit -m "added video 26- Destructuring Arguments.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\27- Summary.mp4.zip"                
+git commit -m "added video 27- Summary.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\3- Pagination- Component Interface.mp4.zip"                
+git commit -m "added video 3- Pagination- Component Interface.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\4- Pagination- Displaying Pages.mp4.zip"                
+git commit -m "added video 4- Pagination- Displaying Pages.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\5- Pagination- Handling Page Changes.mp4.zip"                
+git commit -m "added video 5- Pagination- Handling Page Changes.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\6- Pagination- Paginating Data.mp4.zip"                
+git commit -m "added video 6- Pagination- Paginating Data.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\7- Pagination- Type Checking with PropTypes.mp4.zip"                
+git commit -m "added video 7- Pagination- Type Checking with PropTypes.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\8- Exercise- ListGroup Component.mp4.zip"                
+git commit -m "added video 8- Exercise- ListGroup Component.mp4"                
+git push origin master
+git add "5-PagFilterSort\videos\9- Filtering- Component Interface.mp4.zip"                
+git commit -m "added video 9- Filtering- Component Interface.mp4"                
+git push origin master
+git add "6-Routing\videos\1- Introduction.mp4.zip"                
+git commit -m "added video 1- Introduction.mp4"                
+git push origin master
+git add "6-Routing\videos\10- Query String Parameters.mp4.zip"                
+git commit -m "added video 10- Query String Parameters.mp4"                
+git push origin master
+git add "6-Routing\videos\11- Redirects.mp4.zip"                
+git commit -m "added video 11- Redirects.mp4"                
+git push origin master
+git add "6-Routing\videos\12- Programmatic Navigation.mp4.zip"                
+git commit -m "added video 12- Programmatic Navigation.mp4"                
+git push origin master
+git add "6-Routing\videos\13- Nested Routing.mp4.zip"                
+git commit -m "added video 13- Nested Routing.mp4"                
+git push origin master
+git add "6-Routing\videos\14- Exercises- NavBar and Routing.mp4.zip"                
+git commit -m "added video 14- Exercises- NavBar and Routing.mp4"                
+git push origin master
+git add "6-Routing\videos\15- Adding React Router.mp4.zip"                
+git commit -m "added video 15- Adding React Router.mp4"                
+git push origin master
+git add "6-Routing\videos\16- Adding Routes.mp4.zip"                
+git commit -m "added video 16- Adding Routes.mp4"                
+git push origin master
+git add "6-Routing\videos\17- Adding the NavBar.mp4.zip"                
+git commit -m "added video 17- Adding the NavBar.mp4"                
+git push origin master
+git add "6-Routing\videos\18- Linking to the MovieForm.mp4.zip"                
+git commit -m "added video 18- Linking to the MovieForm.mp4"                
+git push origin master
+git add "6-Routing\videos\19 - Summary.mp4.zip"                
+git commit -m "added video 19 - Summary.mp4"                
+git push origin master
+git add "6-Routing\videos\2- Setup.mp4.zip"                
+git commit -m "added video 2- Setup.mp4"                
+git push origin master
+git add "6-Routing\videos\3- Adding Routing.mp4.zip"                
+git commit -m "added video 3- Adding Routing.mp4"                
+git push origin master
+git add "6-Routing\videos\4- Switch.mp4.zip"                
+git commit -m "added video 4- Switch.mp4"                
+git push origin master
+git add "6-Routing\videos\5- Link.mp4.zip"                
+git commit -m "added video 5- Link.mp4"                
+git push origin master
+git add "6-Routing\videos\6- Route Props.mp4.zip"                
+git commit -m "added video 6- Route Props.mp4"                
+git push origin master
+git add "6-Routing\videos\7- Passing Props.mp4.zip"                
+git commit -m "added video 7- Passing Props.mp4"                
+git push origin master
+git add "6-Routing\videos\8- Route Parameters.mp4.zip"                
+git commit -m "added video 8- Route Parameters.mp4"                
+git push origin master
+git add "6-Routing\videos\9- Optional Parameters.mp4.zip"                
+git commit -m "added video 9- Optional Parameters.mp4"                
+git push origin master
+git add "7-Forms\videos\1- Introduction.mp4.zip"                
+git commit -m "added video 1- Introduction.mp4"                
+git push origin master
+git add "7-Forms\videos\10- A Basic Validation Implementation.mp4.zip"                
+git commit -m "added video 10- A Basic Validation Implementation.mp4"                
+git push origin master
+git add "7-Forms\videos\11- Displaying Validation Errors.mp4.zip"                
+git commit -m "added video 11- Displaying Validation Errors.mp4"                
+git push origin master
+git add "7-Forms\videos\12- Validation on Change.mp4.zip"                
+git commit -m "added video 12- Validation on Change.mp4"                
+git push origin master
+git add "7-Forms\videos\13- Joi.mp4.zip"                
+git commit -m "added video 13- Joi.mp4"                
+git push origin master
+git add "7-Forms\videos\14- Validating a Form Using Joi.mp4.zip"                
+git commit -m "added video 14- Validating a Form Using Joi.mp4"                
+git push origin master
+git add "7-Forms\videos\15- Validating a Field Using Joi.mp4.zip"                
+git commit -m "added video 15- Validating a Field Using Joi.mp4"                
+git push origin master
+git add "7-Forms\videos\16- Disabling the Submit Button.mp4.zip"                
+git commit -m "added video 16- Disabling the Submit Button.mp4"                
+git push origin master
+git add "7-Forms\videos\17- Code Review.mp4.zip"                
+git commit -m "added video 17- Code Review.mp4"                
+git push origin master
+git add "7-Forms\videos\18- Extracting a Reusable Form.mp4.zip"                
+git commit -m "added video 18- Extracting a Reusable Form.mp4"                
+git push origin master
+git add "7-Forms\videos\19- Extracting Helper Rendering Methods.mp4.zip"                
+git commit -m "added video 19- Extracting Helper Rendering Methods.mp4"                
+git push origin master
+git add "7-Forms\videos\2- Building a Bootstrap Form.mp4.zip"                
+git commit -m "added video 2- Building a Bootstrap Form.mp4"                
+git push origin master
+git add "7-Forms\videos\20- Register Form.mp4.zip"                
+git commit -m "added video 20- Register Form.mp4"                
+git push origin master
+git add "7-Forms\videos\21- Code Review.mp4.zip"                
+git commit -m "added video 21- Code Review.mp4"                
+git push origin master
+git add "7-Forms\videos\22- Exercise 2- Movie Form.mp4.zip"                
+git commit -m "added video 22- Exercise 2- Movie Form.mp4"                
+git push origin master
+git add "7-Forms\videos\23- Code Review.mp4.zip"                
+git commit -m "added video 23- Code Review.mp4"                
+git push origin master
+git add "7-Forms\videos\24- Exercise 3- Search Movies.mp4.zip"                
+git commit -m "added video 24- Exercise 3- Search Movies.mp4"                
+git push origin master
+git add "7-Forms\videos\25- Code Review.mp4.zip"                
+git commit -m "added video 25- Code Review.mp4"                
+git push origin master
+git add "7-Forms\videos\3- Handling Form Submission.mp4.zip"                
+git commit -m "added video 3- Handling Form Submission.mp4"                
+git push origin master
+git add "7-Forms\videos\4- Refs.mp4.zip"                
+git commit -m "added video 4- Refs.mp4"                
+git push origin master
+git add "7-Forms\videos\5- Controlled Elements.mp4.zip"                
+git commit -m "added video 5- Controlled Elements.mp4"                
+git push origin master
+git add "7-Forms\videos\6- Handling Multiple Inputs.mp4.zip"                
+git commit -m "added video 6- Handling Multiple Inputs.mp4"                
+git push origin master
+git add "7-Forms\videos\7- Common Errors.mp4.zip"                
+git commit -m "added video 7- Common Errors.mp4"                
+git push origin master
+git add "7-Forms\videos\8- Extracting a Reusable Input.mp4.zip"                
+git commit -m "added video 8- Extracting a Reusable Input.mp4"                
+git push origin master
+git add "7-Forms\videos\9- Validation.mp4.zip"                
+git commit -m "added video 9- Validation.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\1- Introduction.mp4.zip"                
+git commit -m "added video 1- Introduction.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\10- Expected vs Unexpected Errors.mp4.zip"                
+git commit -m "added video 10- Expected vs Unexpected Errors.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\11- Handling Unexpected Errors Globally.mp4.zip"                
+git commit -m "added video 11- Handling Unexpected Errors Globally.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\12- Extracting a Reusable Http Service.mp4.zip"                
+git commit -m "added video 12- Extracting a Reusable Http Service.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\13- Extracting a Config Module.mp4.zip"                
+git commit -m "added video 13- Extracting a Config Module.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\14- Displaying Toast Notifications.mp4.zip"                
+git commit -m "added video 14- Displaying Toast Notifications.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\15- Logging Errors.mp4.zip"                
+git commit -m "added video 15- Logging Errors.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\16- Extracting a Logger Service.mp4.zip"                
+git commit -m "added video 16- Extracting a Logger Service.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\17- Vidly Backend.mp4.zip"                
+git commit -m "added video 17- Vidly Backend.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\18- Installing MongoDB on Mac.mp4.zip"                
+git commit -m "added video 18- Installing MongoDB on Mac.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\19- Installing MongoDB on Windows.mp4.zip"                
+git commit -m "added video 19- Installing MongoDB on Windows.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\2- JSON Placeholder.mp4.zip"                
+git commit -m "added video 2- JSON Placeholder.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\20- Setting Up the Node Backend.mp4.zip"                
+git commit -m "added video 20- Setting Up the Node Backend.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\21- Disabling Authentication.mp4.zip"                
+git commit -m "added video 21- Disabling Authentication.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\22- Exercise- Connect Movies Page to the Backend.mp4.zip"                
+git commit -m "added video 22- Exercise- Connect Movies Page to the Backend.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\23- Ading Http and Log Services.mp4.zip"                
+git commit -m "added video 23- Ading Http and Log Services.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\24- Replacing FakeGenreService.mp4.zip"                
+git commit -m "added video 24- Replacing FakeGenreService.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\25- Replacing FakeMovieService.mp4.zip"                
+git commit -m "added video 25- Replacing FakeMovieService.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\26- Extracting a Config File.mp4.zip"                
+git commit -m "added video 26- Extracting a Config File.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\27- Exercise- Connect Movie Form to the Backend.mp4.zip"                
+git commit -m "added video 27- Exercise- Connect Movie Form to the Backend.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\28- Populating the Form.mp4.zip"                
+git commit -m "added video 28- Populating the Form.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\29- Refactoring.mp4.zip"                
+git commit -m "added video 29- Refactoring.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\3- Http Clients.mp4.zip"                
+git commit -m "added video 3- Http Clients.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\30- Saving the Movie.mp4.zip"                
+git commit -m "added video 30- Saving the Movie.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\31- Refactoring.mp4.zip"                
+git commit -m "added video 31- Refactoring.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\4- Getting Data.mp4.zip"                
+git commit -m "added video 4- Getting Data.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\5- Creating Data.mp4.zip"                
+git commit -m "added video 5- Creating Data.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\6- Lifecycle of a Request.mp4.zip"                
+git commit -m "added video 6- Lifecycle of a Request.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\7- Updating Data.mp4.zip"                
+git commit -m "added video 7- Updating Data.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\8- Deleting Data.mp4.zip"                
+git commit -m "added video 8- Deleting Data.mp4"                
+git push origin master
+git add "8-CallingBackendServices\videos\9- Optimistic vs Pessimistic Updates.mp4.zip"                
+git commit -m "added video 9- Optimistic vs Pessimistic Updates.mp4"                
+git push origin master
+git add "9-Auth\videos\1 - Introduction.mp4.zip"                
+git commit -m "added video 1 - Introduction.mp4"                
+git push origin master
+git add "9-Auth\videos\10- JSON Web Tokens (JWT).mp4.zip"                
+git commit -m "added video 10- JSON Web Tokens (JWT).mp4"                
+git push origin master
+git add "9-Auth\videos\11- Getting the Current User.mp4.zip"                
+git commit -m "added video 11- Getting the Current User.mp4"                
+git push origin master
+git add "9-Auth\videos\12- Displaying the Current User on NavBar.mp4.zip"                
+git commit -m "added video 12- Displaying the Current User on NavBar.mp4"                
+git push origin master
+git add "9-Auth\videos\13- Logging out a User.mp4.zip"                
+git commit -m "added video 13- Logging out a User.mp4"                
+git push origin master
+git add "9-Auth\videos\14- Refactoring.mp4.zip"                
+git commit -m "added video 14- Refactoring.mp4"                
+git push origin master
+git add "9-Auth\videos\15- Calling Protected API Endpoints.mp4.zip"                
+git commit -m "added video 15- Calling Protected API Endpoints.mp4"                
+git push origin master
+git add "9-Auth\videos\16- Fixing Bi-directional Dependencies.mp4.zip"                
+git commit -m "added video 16- Fixing Bi-directional Dependencies.mp4"                
+git push origin master
+git add "9-Auth\videos\17- Authorization.mp4.zip"                
+git commit -m "added video 17- Authorization.mp4"                
+git push origin master
+git add "9-Auth\videos\18- Showing or Hiding Elements based on the User.mp4.zip"                
+git commit -m "added video 18- Showing or Hiding Elements based on the User.mp4"                
+git push origin master
+git add "9-Auth\videos\19- Protecting Routes.mp4.zip"                
+git commit -m "added video 19- Protecting Routes.mp4"                
+git push origin master
+git add "9-Auth\videos\2- Registering a New User.mp4.zip"                
+git commit -m "added video 2- Registering a New User.mp4"                
+git push origin master
+git add "9-Auth\videos\20- Extracting ProtectedRoute.mp4.zip"                
+git commit -m "added video 20- Extracting ProtectedRoute.mp4"                
+git push origin master
+git add "9-Auth\videos\21- Redirecting after Login.mp4.zip"                
+git commit -m "added video 21- Redirecting after Login.mp4"                
+git push origin master
+git add "9-Auth\videos\22- Exercise.mp4.zip"                
+git commit -m "added video 22- Exercise.mp4"                
+git push origin master
+git add "9-Auth\videos\23- Hiding the Delete Column.mp4.zip"                
+git commit -m "added video 23- Hiding the Delete Column.mp4"                
+git push origin master
+git add "9-Auth\videos\3- Submitting the Registration Form.mp4.zip"                
+git commit -m "added video 3- Submitting the Registration Form.mp4"                
+git push origin master
+git add "9-Auth\videos\4- Handling Registration Errors.mp4.zip"                
+git commit -m "added video 4- Handling Registration Errors.mp4"                
+git push origin master
+git add "9-Auth\videos\5- Logging in a User.mp4.zip"                
+git commit -m "added video 5- Logging in a User.mp4"                
+git push origin master
+git add "9-Auth\videos\6- Submitting the Login Form.mp4.zip"                
+git commit -m "added video 6- Submitting the Login Form.mp4"                
+git push origin master
+git add "9-Auth\videos\7- Handling Login Errors.mp4.zip"                
+git commit -m "added video 7- Handling Login Errors.mp4"                
+git push origin master
+git add "9-Auth\videos\8- Storing the JWT.mp4.zip"                
+git commit -m "added video 8- Storing the JWT.mp4"                
+git push origin master
+git add "9-Auth\videos\9- Logging in the User upon Registration.mp4.zip"                
+git commit -m "added video 9- Logging in the User upon Registration.mp4"                
+git push origin master

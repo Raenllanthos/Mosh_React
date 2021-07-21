@@ -1,0 +1,22 @@
+What to Learn Next
+
+Ok, I guess you’re all fired up to learn more right now - it’s exciting when you start discovering new things!
+
+Here are a few things I suggest you to learn next:
+
+* React Native *
+React Native is a framework for building cross-platform mobile apps with JavaScript. It's built on top of React, so now that you know React well, you can easily learn React Native and start building native mobile apps.
+
+Ultimate React Native Course --> https://codewithmosh.com/p/the-ultimate-react-native-course-part1
+
+* Redux *
+Redux is a state management library for JavaScript apps. It's used in more than half of React projects and you find it on job descriptions quite a lot.
+
+Ultimate Redux Course --> https://codewithmosh.com/p/ultimate-redux/?preview=logged_out
+
+* Node.js *
+Node or Node.js is a run-time environment for executing JavaScript code outside of a browser. With Node, you can end the back-end of your web and mobile apps.
+
+Since you're a JavaScript developer, learning Node is the fastest way to become a full-stack developer. No need to learn another language and framework.
+
+Complete Node.js Course --> https://codewithmosh.com/p/the-complete-node-js-course

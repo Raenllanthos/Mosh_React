@@ -1,0 +1,11 @@
+Congratulations on completing this course! I hope you've learned a lot and I'll see you again in my other courses.
+
+May I ask you a favor?
+
+Could you please take a minute and share your feedback about my React course on Twitter? With your support, I can create more courses like this for you and other developers in our community.
+
+To make it easy for you, I've created this link for sharing my course on Twitter. Please just add your own comment about the course.
+
+Share on Twitter (https://twitter.com/home?status=%23React%20course%20by%20%40moshhamedani%20%5BAdd%20your%20comment%20here%5D%20https%3A//codewithmosh.com/p/mastering-react%20)
+
+Thank you so much!

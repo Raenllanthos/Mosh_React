@@ -1,0 +1,9 @@
+-- Student's Question:
+Most React courses out there teach React with Redux. Does this course cover Redux?
+
+
+No! I have a separate course dedicated to Redux. But in order to take that course, first you need to properly learn React.
+
+Redux is great and is used in more than half of React projects. But not every React project needs Redux. This is a common misconception.
+
+So, focus on learning React for now. Once you finish this course, you can enroll in my Redux course to take your skills to the next level.
